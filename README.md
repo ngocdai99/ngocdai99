@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Đại</h1>
-<h3 align="center">I am Đại</h3>
+<h3 align="center" style="color: red;">I am Đại</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngocdai99&label=Profile%20views&color=0e75b6&style=flat" alt="ngocdai99" /> </p>
 
